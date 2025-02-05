@@ -10,6 +10,11 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
+            Image(systemName: "photo")
+                .resizable()
+                .scaledToFit()
+                .frame(width: 250, height: 200)
+    
             Text("Abrar Hamim")
                 .padding()
                 .font(.largeTitle)
