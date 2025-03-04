@@ -9,6 +9,8 @@ import Foundation
 
 class AppService {
     func add() {
+      let a = 3
+        let b = 3
         
     }
 }
