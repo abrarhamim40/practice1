@@ -9,15 +9,9 @@ import Foundation
 
 class AppService {
     func add() {
-<<<<<<< HEAD
         let a = 5
         let b = 5
         let c = a + b
         print(c)
-=======
-      let a = 3
-        let b = 3
-        
->>>>>>> utility
     }
 }
